@@ -1,0 +1,122 @@
+style12.css .content {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 15px 60px;
+}
+body {
+  background-color: #fffbbe;
+}
+
+h1 {
+  color: #a374d5;
+  text-align: center;
+  font-size: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.clubPresents {
+  color: #a374d5;
+  text-align: center;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100px;
+  line-height: 120px;
+}
+
+.bookTitle {
+  color: #bc13fe;
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+  color: #a374d5;
+  text-align: center;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.coverOne {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+  border-radius: 20px;
+}
+
+.linkBook {
+  text-align: center;
+  text-decoration: none;
+  font-size: 19px;
+  line-height: 8px;
+}
+
+.linkBook:hover {
+  text-decoration: underline;
+}
+
+.buyBook {
+  text-decoration: none;
+}
+.abstract {
+  text-align: justify;
+
+  font-size: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-family: "Courier New", Courier, monospace;
+  margin-left: 180px;
+  margin-right: 180px;
+}
+button {
+  display: block;
+  margin: 0 auto;
+  padding: 20px 15px;
+  border-radius: 40px;
+  background-color: #be97dc;
+  border: 2px;
+  color: white;
+  box-shadow: 5px 5px 10px rgba (0, 0, 0, 0.5);
+  transition: all 200ms ease-in-out;
+  font-size: 20px;
+}
+button:hover {
+  cursor: pointer;
+  background-color: purple;
+}
+h3 {
+  color: #a374d5;
+  text-align: center;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.coverTwo {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+  border-radius: 20px;
+}
+.realStory {
+  margin-left: 180px;
+  margin-right: 180px;
+  font-size: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+.coverThree {
+  display: block;
+  margin: 0 auto;
+  width: 450px;
+  border-radius: 20px;
+}
+
+.bookClub {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 30px;
+  color: #a374d5;
+}
+
+.coder {
+  text-align: center;
+  color: #a374d5;
+  font-family: "Courier New", Courier, monospace;
+}
